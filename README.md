@@ -35,5 +35,5 @@ Dieses Projekt steht unter der [MIT-Lizenz](LICENSE).
 
 ## 🤝 Mitwirkende
 
-- [mmunin](https://github.com/DEIN-GITHUB-NAME) 👋
+- [mmunin](https://github.com/mmunin) 👋
 
